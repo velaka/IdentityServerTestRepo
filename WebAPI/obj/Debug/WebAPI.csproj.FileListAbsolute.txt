@@ -1,0 +1,1 @@
+C:\Users\User\source\repos\IdentityServer\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
